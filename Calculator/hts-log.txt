@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 05 May 2023 13:20:44 at http://socar-petroleum.az/xidmetler-ve-mehsullar/cng-kalkulyator/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://socar-petroleum.az/xidmetler-ve-mehsullar/cng-kalkulyator/ -O1 "C:\Users\user\Desktop\Calculator\Calculator" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:21:14	Error: 	"Not Found" (404) at link socar-petroleum.az/xidmetler-ve-mehsullar/img/scrollup.png (from socar-petroleum.az/xidmetler-ve-mehsullar/cng-kalkulyator/)
+13:23:58	Error: 	"Not Found" (404) at link socar-petroleum.az/xidmetler-ve-mehsullar/wp-content/themes/jikov/style.css (from socar-petroleum.az/xidmetler-ve-mehsullar/cng-kalkulyator/)
+13:23:58	Error: 	"Not Found" (404) at link socar-petroleum.az/xidmetler-ve-mehsullar/wp-content/themes/jikov/css/print.css (from socar-petroleum.az/xidmetler-ve-mehsullar/cng-kalkulyator/)
+13:23:58	Error: 	"Not Found" (404) at link socar-petroleum.az/xidmetler-ve-mehsullar/cng-kalkulyator/index.html (from socar-petroleum.az/xidmetler-ve-mehsullar/cng-kalkulyator/)
+13:23:58	Error: 	"Not Found" (404) at link socar-petroleum.az/xidmetler-ve-mehsullar/cng-kalkulyator/feed/index.html (from socar-petroleum.az/xidmetler-ve-mehsullar/cng-kalkulyator/)
+13:23:58	Error: 	"Not Found" (404) at link socar-petroleum.az/xidmetler-ve-mehsullar/wp-content/plugins/cng_calc/cng_calc.js (from socar-petroleum.az/xidmetler-ve-mehsullar/cng-kalkulyator/)
+13:23:58	Error: 	"Not Found" (404) at link socar-petroleum.az/xidmetler-ve-mehsullar/wp-content/plugins/cng_calc/cng_calc.css (from socar-petroleum.az/xidmetler-ve-mehsullar/cng-kalkulyator/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 15 seconds : 116 links scanned, 108 files written (5577780 bytes overall) [5111828 bytes received at 26214 bytes/sec], 1226354 bytes transferred using HTTP compression in 52 files, ratio 27%, 8.3 requests per connection
+(7 errors, 0 warnings, 0 messages)

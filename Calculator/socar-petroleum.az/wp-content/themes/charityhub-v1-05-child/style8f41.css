@@ -1,0 +1,86 @@
+/*
+ Theme Name:   charityhub-v1-05 Child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  charityhub-v1-05-child
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     charityhub-v1-05
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  charityhub-v1-05-child
+*/
+body{
+background:blue;
+}
+
+
+.gdlr-testimonial-item.plain-style .testimonial-item {
+text-align: right;
+  font-size: 16px;
+  font-weight: 600;
+}
+.gdlr-blog-content {
+  margin-bottom: 0px;
+}
+a.gdlr-right-text-link {
+  color: #171E27;
+}
+a.excerpt-read-more {
+  color: #171E27;
+}
+.gdlr-navigation-wrapper .gdlr-main-menu > li > a {padding:23px 12px;font-size: 12px;}
+.wpcf7-select{
+width: 15%;
+  height: 17%;
+  padding: 9px 0px;
+  background-color: #f7f7f7;
+  color: #b5b5b5;
+}
+table.ydm_siyahi tr td {
+  padding: 4px 10px;
+  border: 2px;
+  border-style: solid;
+text-align:left;
+border-color: transparent;
+}
+tr.iki {
+  background-color: rgb(243, 243, 243);
+}
+table.ydm_siyahi tr th {
+border:1px solid ;
+border-style:solid;
+border-color:transparent;
+background-color:#171E27 !important;
+}
+
+.widget_nav_menu ul li, .widget_meta ul li {
+border-bottom-style: none !important;
+}
+@media screen and (max-width: 770px) {
+.basliq_sitat{
+visibility:hidden;
+}
+.gdlr-logo-right-text{margin-top:5px;}
+
+.telephone_head{
+visibility:hidden;
+}
+
+}
+
+@media screen and (max-width: 770px) {
+    .top_bar{
+	display:none;
+}
+}
+
+table tr th{ background-color: #171E27 !important ; }
+.gdlr-blog-title a {
+font-size: 13px;
+}
+div#socar-map {
+  position: relative;
+  left: -10px;
+}
